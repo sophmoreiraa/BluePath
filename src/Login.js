@@ -40,10 +40,10 @@ const css = StyleSheet.create({
         flex: 1,
         alignItems: 'center',
         justifyContent: 'center',
+        backgroundColor: '#FFE2F5'
     },
     input: {
         width: "80%",
-        borderWidth: 1,
         height: 45,
         borderRadius: 5,
         padding: 10,
@@ -52,7 +52,7 @@ const css = StyleSheet.create({
     btn: {
         width: "80%",
         height: 45,
-        backgroundColor: "pink",
+        backgroundColor: '#8C1440',
         borderRadius: 5
     },
     btnText: {
